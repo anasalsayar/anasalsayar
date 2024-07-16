@@ -1,16 +1,33 @@
-## Hi there 👋
+![0_goaFvkjpQM-0p0h6](https://github.com/user-attachments/assets/72d09585-e385-4275-beb8-30aa12abdabb)
 
-<!--
-**anasalsayar/anasalsayar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there, I'm Anas Alsayar 
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm a Mechatronics engineering student who is passionate about Embedded Software.
+- 🌱 I’m currently learning more about Embedded Software and Embedded Systems Using Stm32.
+
+
+
+## Skills
+- C/C++
+- Matlab/Simulink
+- Embedded Systems
+- Control Systems
+- STM32 Programming
+
+
+
+## Current Projects
+
+### HomeHover Drone
+Homhover drone is a GPS drone with GY-86 and STM32 BlackPill MCU. I am developing the "Return to Home" and "Altitude Hold" algorithms for the HomeHover drone using the STM32 Blackpill MCU.
+
+### Balancing Robot
+A self-balancing robot using PID control and IMU sensors with Stm32 NUCLEO-F303RE.
+![2 1](https://github.com/user-attachments/assets/9057f0ac-6722-454b-8875-ed0c6b30cd2d)
+
+
+
+
