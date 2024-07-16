@@ -25,7 +25,8 @@
 Homhover drone is a GPS drone with GY-86 and STM32 BlackPill MCU. I am developing the "Return to Home" and "Altitude Hold" algorithms for the HomeHover drone using the STM32 Blackpill MCU.
 
 ### Balancing Robot
-A self-balancing robot using PID control and IMU sensors with Stm32 NUCLEO-F303RE.
+I am developing a self-balancing robot utilizing PID control and IMU sensors, implemented with an STM32 NUCLEO-F303RE.
+
 ![2 1](https://github.com/user-attachments/assets/9057f0ac-6722-454b-8875-ed0c6b30cd2d)
 
 
