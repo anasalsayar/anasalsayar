@@ -3,7 +3,7 @@
 ## Hi there, I'm Anas Alsayar 
 
 
-Here are some ideas to get you started:
+## About Me
 
 - 🔭 I'm a Mechatronics engineering student who is passionate about Embedded Software.
 - 🌱 I’m currently learning more about Embedded Software and Embedded Systems Using Stm32.
