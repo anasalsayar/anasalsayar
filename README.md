@@ -11,7 +11,7 @@
 
 
 ## Skills
-Technical Skills:
+## Technical Skills:
 
 C Programming language
 
@@ -36,7 +36,7 @@ Embedded Linux
 BeagleBone
 
 
-Soft Skills:
+## Soft Skills:
 
 Communication Skills
 
@@ -45,7 +45,7 @@ Adaptability
 Critical Thinking
 
 
-Language Skills:
+## Language Skills:
 
 English: Intermediate
 
