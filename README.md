@@ -12,23 +12,43 @@
 
 ## Skills
 Technical Skills:
+
 C Programming language
+
 Embedded C
+
 Embedded Systems
+
 Arduino
+
 STM32
+
 Proteus
+
 MATLAB & Simulink
+
 Siemens Step 7
+
 Linux
+
 Embedded Linux
+
 BeagleBone
+
+
 Soft Skills:
+
 Communication Skills
+
 Adaptability
+
 Critical Thinking
+
+
 Language Skills:
+
 English: Intermediate
+
 Turkish: Advanced
 
 
