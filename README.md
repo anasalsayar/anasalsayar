@@ -36,6 +36,7 @@ Turkish: Advanced
 
 ### LOADLIFT X1 PROTOTYPE DRONE ( MART 2024 - CONTINUE )
 The LoadLift X1 is a drone prototype capable of carrying heavy loads between 3 to 5 kg (for example, almost a robotic dog) and transferring them to another location. The drone can stay airborne for approximately 15 minutes. While developing this prototype, I learned how to build a drone, select the right components to achieve the desired results, and configure the drone software.
+
 ![QUAD3](https://github.com/user-attachments/assets/7a01808c-2394-4cca-933b-387b4c0681a9)
 ![1728985707818](https://github.com/user-attachments/assets/d5719dbd-b0eb-409b-90c6-088294d13fb2)
 ![photo_5812146416250899064_y](https://github.com/user-attachments/assets/b0d42cf7-4356-4d21-b696-01455357071d)
